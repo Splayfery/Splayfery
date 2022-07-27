@@ -24,7 +24,7 @@
 
 - 🎥 I also have a **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials**
 
-## 🚀 Languages and Tools:
+## 🚀〣 Languages and Tools:
 
 ![](https://skillicons.dev/icons?i=python,java,github,php,mysql,linux,bash,git,discord,bots)
 
@@ -36,7 +36,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 〣My Github Stats
 
   <br/>
     <a href="https://github.com/Splayfery/github-readme-stats"><img alt="Splayfer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Splayfery&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
