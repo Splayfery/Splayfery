@@ -8,7 +8,7 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Splayfery&style=flat-square&color=blue" alt="">
-        <a href="https://youtube.com/splayfer"><img src="https://img.shields.io/youtube/channel/views/UCGvcLOmPKMv4JstBZezFkHA?label=YouTube&logo=YouTube&style=flat-square" alt="Splayfer" width="85" height="20"/></a>
+        <a href="https://youtube.com/splayfer"><img src="https://img.shields.io/youtube/channel/views/UCGvcLOmPKMv4JstBZezFkHA?label=YouTube&logo=YouTube&style=flat-square" alt="Splayfer" width="100" height="20"/></a>
     <a href="https://discord.gg/splayfer"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="Splayfer#9999" width="85" height="20"/></a>
     <a href="https://github.com/Splayfery?tab=followers"><img src="https://img.shields.io/github/followers/Splayfery?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
