@@ -18,11 +18,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 My Discord Server: **[SPLΛYFUNITY](https://discord.gg/splayfer)**
+- 🌀 My Discord Server: **[SPLΛYFUNITY](https://discord.gg/splayfer)**
 
 - 🌱 I’m currently learning **Python / Bash / MySQL.**
 
-- 👯 I also have a **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials**
+- 🎥 I also have a **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials**
 
 ## 🚀 Languages and Tools:
 
