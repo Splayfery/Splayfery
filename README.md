@@ -19,8 +19,6 @@
 
 <br>
 
-<a href="https://Cheataway.com" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
-
 ## 🔎〣 About Me
 
 - 🌀│ My Discord Server: **[SPLΛYFUNITY](https://discord.gg/splayfer)**
@@ -69,3 +67,5 @@
 <a href = "https://linktr.ee/Splayfer"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
 
 </p>
+
+<a href="https://Cheataway.com" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
