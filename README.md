@@ -23,7 +23,7 @@
 
 - 🌀│ My Discord Server: **[SPLΛYFUNITY](https://discord.gg/splayfer)**
 
-- 🌱│ I’m currently learning **Python / Bash / MySQL.**
+- 🌱│ I’m currently learning **Python / Bash / MySQL / HTML.**
 
 - 🎥│ I also have a **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials**
 
