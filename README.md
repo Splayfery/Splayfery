@@ -16,7 +16,7 @@
 
 <br>
 
-## 〣 🙋‍♂️│ About Me
+## 🙋‍♂️〣 About Me
 
 - 🌀 My Discord Server: **[SPLΛYFUNITY](https://discord.gg/splayfer)**
 
