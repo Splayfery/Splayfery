@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **[CrownX.de](https://CrownX.de)**
 
-- 🌱 I’m currently learning **Lua / C# / MySQL.**
+- 🌱 I’m currently learning **Python / Bash / MySQL.**
 
 - 👯 I’m looking to collaborate on **OpenSource FiveM Projects**
 
