@@ -26,7 +26,7 @@
 
 ## 🚀 Languages and Tools:
 
-![](https://skillicons.dev/icons?i=python,github,php,mysql,vscode,linux,bash,git,docker,discord,bots)
+![](https://skillicons.dev/icons?i=python,github,php,mysql,linux,bash,git,discord,bots)
 
 <br/>
 
