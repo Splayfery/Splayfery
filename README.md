@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ItzCelyrian/github-readme-activity-graph"><img alt="ItzCelyrian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ItzCelyrian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Splayfery/github-readme-activity-graph"><img alt="Splayfers's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Splayfery&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -56,8 +56,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/ItzCelyrian"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Itz.Celyrian/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://linktr.ee/ItzCelyrian"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
+<a href = "https://twitter.com/Splayfer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/Splayfer/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://linktr.ee/Splayfer"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
 
 </p>
