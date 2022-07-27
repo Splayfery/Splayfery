@@ -56,10 +56,11 @@
 ## Check out my socials:
 <p align="left">
 
-<a href = "https://youtube.com/splayfer"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
+<a href = "https://youtube.com/splayfer"><img src="https://img.icons8.com/fluent/48/000000/youtube-new.png"/></a>
 <a href = "https://twitch.tv/splayfer"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
 <a href = "https://twitter.com/Splayfer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/Splayfer/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "https://www.instagram.com/Splayfer/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://linktr.ee/Splayfer"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
 
 </p>
