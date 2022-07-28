@@ -51,7 +51,11 @@
 <br/>
 <br/>
 
+<p align="left">
+
 <a href="https://github.com/Splayfery/github-readme-activity-graph"><img alt="Splayfers's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Splayfery&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+</p>
 
 <br/>
 <br/>
