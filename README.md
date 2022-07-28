@@ -42,13 +42,11 @@
 ## 📈〣 Github Stats
 
   <br/>
-      <p align="left">
+    <p float="left">
     <a href="https://github.com/Splayfery/github-readme-stats"><img alt="Splayfer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Splayfery&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-        </p>
-    <br/>
-    <p align="right">
   <a href="https://github.com/Splayfery/github-readme-stats"><img alt="Splayfers's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Splayfery&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
+        <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
