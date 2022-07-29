@@ -25,7 +25,7 @@
 
 - 🌱│ I’m currently learning **Python / Bash / MySQL / HTML.**
 
-- 🎥│ I also have a **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials**
+- 🎥│ I also have a **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials
 
 ## 🚀〣 Languages and Tools:
 
