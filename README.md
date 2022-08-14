@@ -29,7 +29,7 @@
 
 ## 🚀〣 Languages and Tools:
 
-![](https://skillicons.dev/icons?i=python,java,github,php,mysql,linux,bash,git,discord,bots)
+![](https://skillicons.dev/icons?i=java,github,mysql,linux,bash,git,discord,bots)
 
 <br/>
 
