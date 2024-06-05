@@ -35,6 +35,19 @@
 
 ## 📈〣 Github Stats
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+Java         8 hrs 8 mins    ███████████████████▓░░░░░   78.82 %
+Kotlin       1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+JavaScript   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
+<!--END_SECTION:waka-->
+
   <br/>
     <p float="above">
     <a href="https://github.com/Splayfery/github-readme-stats"><img alt="Splayfer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Splayfery&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
