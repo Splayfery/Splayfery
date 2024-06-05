@@ -21,7 +21,7 @@
 
 ## 🔎〣 About Me
 
-- 🌀│ My Discord Server: **[SPLΛYFUNITY](https://discord.gg/splayfer)**
+- 🌀│ My Discord Server: **[SPLΛYFUNITY](https://discord.gg/V2Vc5hpRkH)**
 
 - 🌱│ I’m currently learning **Python / Bash / MySQL / HTML.**
 
