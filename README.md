@@ -43,36 +43,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-  <br/>
-    <p float="above">
-    <a href="https://github.com/Splayfery/github-readme-stats"><img alt="Splayfer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Splayfery&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    
-  <a href="https://github.com/Splayfery/github-readme-stats"><img alt="Splayfers's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Splayfery&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </p>
-    <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<p align="right">
-
-<a href="https://github.com/Splayfery/github-readme-activity-graph"><img alt="Splayfers's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Splayfery&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-</p>
-
-<br/>
-<br/>
-
-## Check out my socials:
-<p align="left">
-
-<a href = "https://youtube.com/splayfer"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-<a href = "https://twitch.tv/splayfer"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
-<a href = "https://twitter.com/Splayfer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Splayfer/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.reddit.com/Splayfer/"><img src="https://img.icons8.com/fluent/48/000000/reddit.png"/></a>
-<a href = "https://linktr.ee/Splayfer"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
-
-</p>
