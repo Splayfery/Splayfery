@@ -23,13 +23,13 @@
 
 - 🌀│ My Discord Server: **[SPLΛYFUNITY](https://discord.gg/V2Vc5hpRkH)**
 
-- 🌱│ I’m currently learning **Python / Bash / MySQL / HTML.**
+- 🌱│ I’m currently learning **Bash / CI/CD / Terraform.**
 
 - 🎥│ I also have a **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials
 
 ## 🚀〣 Languages and Tools:
 
-![](https://skillicons.dev/icons?i=java,github,mysql,linux,bash,git,discord,bots,mongodb)
+![](https://skillicons.dev/icons?i=java,github,linux,bash,git,discord,mongodb,terraform,ansible)
 
 <br/>
 
