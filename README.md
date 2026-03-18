@@ -29,7 +29,7 @@
 
 ## 🚀〣 Languages and Tools:
 
-![](https://skillicons.dev/icons?i=java,github,linux,bash,git,discord,mongodb,terraform,ansible)
+![](https://skillicons.dev/icons?i=java,github,bash,terraform,ansible,linux,git,discord,mongodb)
 
 <br/>
 
