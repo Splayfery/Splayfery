@@ -29,7 +29,7 @@
 
 ## 🚀〣 Languages and Tools:
 
-![](https://skillicons.dev/icons?i=java,github,bash,terraform,ansible,linux,git,discord,mongodb)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,bash,proxmox,terraform,ansible,linux,git,githubactions,docker,mongodb,prometheus,nginx&titles=true)
 
 <br/>
 
