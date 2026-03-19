@@ -18,6 +18,11 @@
 
 <br>
 
+### 🏢 My Projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=splayfunityde&repo=roonie&theme=github_dark_dimmed)](https://github.com/splayfunityde/roonie)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=splayfunityde&repo=radio&theme=github_dark_dimmed)](https://github.com/splayfunityde/radio)
+
 ## 🔎〣 About Me
 
 - 🌀│ My Discord Server: **[SPLΛYFUNITY](https://discord.gg/V2Vc5hpRkH)**
