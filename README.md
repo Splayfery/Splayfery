@@ -20,9 +20,9 @@
 
 ## 🔎〣 About Me
 
-- 🌀│ My Discord Server: **[SPLΛYFUNITY](https://discord.gg/V2Vc5hpRkH)**
+- 🌀│ All my projects: **[SPLΛYFUNITY](https://github.com/splayfunityde)**
 
-- 🌱│ I’m currently learning **Bash / CI/CD / Terraform.**
+- 🌱│ I’m currently learning **Grafana / Prometheus / Loki.**
 
 - 🎥│ I also have a **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials
 
