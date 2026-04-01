@@ -22,7 +22,7 @@
 
 - 🌀│ All my projects: **[SPLΛYFUNITY](https://github.com/splayfunityde)**
 
-- 🌱│ I’m currently learning **Grafana / Prometheus / Loki.**
+- 🌱│ I’m currently learning **Grafana / Prometheus / OpenTelemetry.**
 
 - 🎥│ I also have a **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials
 
