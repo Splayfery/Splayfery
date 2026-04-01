@@ -36,4 +36,13 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+
+```txt
+YAML         12 hrs 26 mins        ████████████████████░░░░░   80.33 %
+Other        1 hr 47 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+Terraform    31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Python       22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+INI          7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+```
+
 <!--END_SECTION:waka-->
