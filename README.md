@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Splayfer!</h1>
-<h3 align="center">I'm Content Creator & Developer</h3>
 
 <br>
 
