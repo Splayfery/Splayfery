@@ -26,7 +26,7 @@
 
 ## 🚀〣 Languages and Tools:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,bash,proxmox,terraform,ansible,linux,git,githubactions,docker,mongodb,prometheus,nginx&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,go,bash,proxmox,terraform,ansible,linux,git,githubactions,docker,mongodb,prometheus&titles=true)
 
 <br/>
 
